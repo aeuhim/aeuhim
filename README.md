@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="https://aeuhim.dev">
+  <a href="https://aeuhim.dev" target="blank_">
     <p>AEUHIM</p>
   </a>
 </h1>
@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
-  <a href="https://aeuhim.dev"><b>Portfolio</b></a> •
-  <a href="https://blog.aeuhim.dev/"><b>Blog</b></a> •
-  <a href="mailto:ericmichaelbedanaconstantino@gmail.com"><b>Contact</b></a>
+  <a href="https://aeuhim.dev" target="blank_"><b>Portfolio</b></a> •
+  <a href="https://linkedin.com/in/aeuhim" target="blank_"><b>Profile</b></a> •
+  <a href="mailto:ericmichaelbedanaconstantino@gmail.com" target="blank_"><b>Contact</b></a>
 </p>
 
 <div align="center">
@@ -45,39 +45,43 @@
 
 📚 Knowledge is the flame that illuminates the path of discovery. Together, let us ignite the brilliance of creation and innovation in the realms of technology! 🌟
 
-🔗 You can find me on [LinkedIn](https://www.linkedin.com/in/aeuhim/). Shall our paths intertwine in this vast technological expanse. 🤝
+🔗 You can find me on <a href="https://linkedin.com/in/aeuhim" target="blank_">LinkedIn</a>. Shall our paths intertwine in this vast technological expanse. 🤝
 
-<h2>I use these when I need to build a...</h2>
+<h2>I use these when I need a...</h2>
 
 <h3>Microservice Architecture<h3>
 
 [![React](https://img.shields.io/badge/Frontend-React-61DAFB?style=flat-square&logo=react)](https://react.dev/)
-[![Bootstrap](https://img.shields.io/badge/Design-Bootstrap-7952B3?style=flat-square&logo=bootstrap)](https://getbootstrap.com/)
+[![Tailwind CSS](https://img.shields.io/badge/Design-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css)](https://tailwindcss.com/)
 [![Next](https://img.shields.io/badge/Frontend-Next.js-000000?style=flat-square&logo=next.js)](https://nextjs.org/)
 
 [![OpenCV](https://img.shields.io/badge/AI-OpenCV-5C3EE8?style=flat-square&logo=opencv)](https://opencv.org/)
-[![TensorFlow](https://img.shields.io/badge/AI-TensorFlow-FF6F00?style=flat-square&logo=tensorflow)](https://www.tensorflow.org/)
-[![Redis](https://img.shields.io/badge/Database-Redis-DC382D?style=flat-square&logo=redis)](https://redis.io/)
-
+[![TensorFlow](https://img.shields.io/badge/AI-TensorFlow-FF6F00?style=flat-square&logo=tensorflow)](https://tensorflow.org/)
 [![FastAPI](https://img.shields.io/badge/Backend-FastAPI-009688?style=flat-square&logo=fastapi)](https://fastapi.tiangolo.com/)
+
+[![Redis](https://img.shields.io/badge/Database-Redis-DC382D?style=flat-square&logo=redis)](https://redis.io/)
+[![Docker](https://img.shields.io/badge/Deployment-Docker-2496ED?style=flat-square&logo=docker)](https://docker.com/)
 [![Vercel](https://img.shields.io/badge/Deployment-Vercel-000000?style=flat-square&logo=vercel)](https://vercel.com/)
+
 [![AWS Lambda](https://img.shields.io/badge/Deployment-AWS_Lambda-F3C933?style=flat-square&logo=amazon-aws)](https://aws.amazon.com/lambda/)
 
 
 <h3>Monolithic Application</h3>
 
 [![Django](https://img.shields.io/badge/Backend-Django-092E20?style=flat-square&logo=django)](https://www.djangoproject.com/)
-[![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-336791?style=flat-square&logo=postgresql)](https://www.postgresql.org/)
+[![Bootstrap](https://img.shields.io/badge/Design-Bootstrap-7952B3?style=flat-square&logo=bootstrap)](https://getbootstrap.com/)
+[![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-336791?style=flat-square&logo=postgresql)](https://postgresql.org/)
+
 [![AWS EC2](https://img.shields.io/badge/Deployment-AWS_EC2-232F3E?style=flat-square&logo=amazon-aws)](https://aws.amazon.com/ec2/)
 
 <h3>Single Page Application</h3>
 
 [![Angular](https://img.shields.io/badge/Frontend-Angular-DD0031?style=flat-square&logo=angular)](https://angular.io/)
-[![Bootstrap](https://img.shields.io/badge/Design-Bootstrap-7952B3?style=flat-square&logo=bootstrap)](https://getbootstrap.com/)
-[![Django Rest Framework](https://img.shields.io/badge/Backend-Django_Rest_Framework-0C4B33?style=flat-square&logo=django)](https://www.django-rest-framework.org/)
+[![Angular Material](https://img.shields.io/badge/Design-Angular_Material-607D8B?style=flat-square&logo=angular)](https://material.angular.io/)
+[![Django Rest Framework](https://img.shields.io/badge/Backend-Django_Rest_Framework-0C4B33?style=flat-square&logo=django)](https://django-rest-framework.org/)
 
-[![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-336791?style=flat-square&logo=postgresql)](https://www.postgresql.org/)
-[![Netlify](https://img.shields.io/badge/Deploy-Netlify-00C7B7?style=flat-square&logo=netlify)](https://www.netlify.com/)
+[![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-336791?style=flat-square&logo=postgresql)](https://postgresql.org/)
+[![Netlify](https://img.shields.io/badge/Deployment-Netlify-00C7B7?style=flat-square&logo=netlify)](https://netlify.com/)
 [![AWS EC2](https://img.shields.io/badge/Deployment-AWS_EC2-232F3E?style=flat-square&logo=amazon-aws)](https://aws.amazon.com/ec2/)
 
 <h3>Cross Platform Mobile Application</h3>
@@ -85,3 +89,5 @@
 [![Flutter](https://img.shields.io/badge/Frontend-Flutter-02569B?style=flat-square&logo=flutter)](https://flutter.dev/)
 [![Material Design](https://img.shields.io/badge/Design-Material_Design-757575?style=flat-square&logo=material-design)](https://material.io/)
 [![Firebase](https://img.shields.io/badge/Backend-Firebase-FFCA28?style=flat-square&logo=firebase)](https://firebase.google.com/)
+
+[![SQLite](https://img.shields.io/badge/Database-SQLite-003B57?style=flat-square&logo=sqlite)](https://sqlite.org/)
