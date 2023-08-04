@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="https://aeuhim.dev" target="blank_">
+  <a href="https://aeuhim.dev">
     <p>AEUHIM</p>
   </a>
 </h1>
@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
-  <a href="https://aeuhim.dev" target="blank_"><b>Portfolio</b></a> •
-  <a href="https://linkedin.com/in/aeuhim" target="blank_"><b>Profile</b></a> •
-  <a href="mailto:ericmichaelbedanaconstantino@gmail.com" target="blank_"><b>Contact</b></a>
+  <a href="https://aeuhim.dev"><b>Portfolio</b></a> •
+  <a href="https://linkedin.com/in/aeuhim"><b>Profile</b></a> •
+  <a href="mailto:ericmichaelbedanaconstantino@gmail.com"><b>Contact</b></a>
 </p>
 
 <div align="center">
@@ -45,7 +45,7 @@
 
 📚 Knowledge is the flame that illuminates the path of discovery. Together, let us ignite the brilliance of creation and innovation in the realms of technology! 🌟
 
-🔗 You can find me on <a href="https://linkedin.com/in/aeuhim" target="blank_">LinkedIn</a>. Shall our paths intertwine in this vast technological expanse. 🤝
+🔗 You can find me on <a href="https://linkedin.com/in/aeuhim">LinkedIn</a>. Shall our paths intertwine in this vast technological expanse. 🤝
 
 <h2>I use these when I need a...</h2>
 
